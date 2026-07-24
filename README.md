@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://wilda1308.github.io/">
-    <img src="[https://img.shields.io/badge/🚀_Ver_Portafolio-06b6d4?style=for-the-badge&logoColor=white](https://img.shields.io/badge/🚀_Ver_Portafolio-06b6d4?style=for-the-badge&logoColor=white)" alt="Ver Portafolio">
+    <img src="https://img.shields.io/badge/🚀_Ver_Portafolio-06b6d4?style=for-the-badge&logoColor=white" alt="Ver Portafolio">
   </a>
 </p>
 
