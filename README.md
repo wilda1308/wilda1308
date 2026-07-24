@@ -61,8 +61,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilda1308&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilda1308&theme=tokyonight&hide_border=true" alt="Racha de GitHub" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=wilda1308&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="Estadísticas de GitHub" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilda1308&theme=tokyonight&hide_border=true&border=15" alt="Racha de GitHub" height="165">
 </p>
 
 ---
