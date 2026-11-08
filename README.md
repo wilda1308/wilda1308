@@ -2,8 +2,7 @@
 <h3 align="center">WilsonM | dev | Web & Software Developer</h3>
 
 <p align="center">
-  Estudiante de Ingeniería de Software en la Fundación Universitaria Compensar,
-  próximo a graduarme como Técnico Profesional en Programación de Aplicaciones de Software.
+  Estudiante de Ingeniería de Software en la Fundación Universitaria Compensar, graduado como Técnico Profesional en Programación de Aplicaciones de Software.
 </p>
 
 <p align="center">
