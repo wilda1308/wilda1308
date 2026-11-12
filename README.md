@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wilsonm.dpdns.org">
+  <a href="https://wilsonm.dpdns.org" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Ver_Portafolio-06b6d4?style=for-the-badge&logoColor=white" alt="Ver Portafolio">
   </a>
 </p>
