@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wilda1308.github.io/">
+  <a href="https://wilsonm.dpdns.org">
     <img src="https://img.shields.io/badge/🚀_Ver_Portafolio-06b6d4?style=for-the-badge&logoColor=white" alt="Ver Portafolio">
   </a>
 </p>
@@ -15,7 +15,7 @@
 
 ### 🧠 Sobre mí
 
-- 🔭 Actualmente construyendo y mejorando mi [portafolio personal](https://wilda1308.github.io/)
+- 🔭 Actualmente construyendo y mejorando mi [portafolio personal](https://wilsonm.dpdns.org)
 - 🌱 Aprendiendo a fondo **Spring Boot**, **estructuras de datos** y buenas prácticas de **responsive design**
 - 💼 Practicante en desarrollo Frontend y Backend en **Asesorías Contables y Administrativas JJ S.A.S**
 - ⚡ Me interesa el desarrollo web full-stack y la programación orientada a objetos
@@ -53,7 +53,7 @@
 | **[Aron: El renacer del mundo perdido](https://wildavmon.itch.io/aron-el-renacer-del-mundo-perdido)** | Videojuego con lógica de programación, niveles y jefe final | GDevelop · Pixil Art |
 | **Calculadora** | Programa de escritorio con manejo de excepciones | C# · Windows Forms |
 
-📂 Mira todos los proyectos con detalle en mi **[portafolio completo](https://wilda1308.github.io/)**
+📂 Mira todos los proyectos con detalle en mi **[portafolio completo](https://wilsonm.dpdns.org)**
 
 ---
 
@@ -74,7 +74,7 @@
   <a href="mailto:wilsondmonroy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://wilda1308.github.io/">
+  <a href="https://wilsonm.dpdns.org">
     <img src="https://img.shields.io/badge/Portafolio-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
