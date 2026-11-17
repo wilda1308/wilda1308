@@ -63,7 +63,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilda1308&theme=tokyonight&hide_border=true&border=15" alt="Racha de GitHub" height="165">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilda1308&theme=react&show_icons=true" alt="Estadísticas generales GitHub" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=wilda1308&theme=shadow_blue&show_icons=true" alt="Estadísticas generales GitHub" height="165">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wilda1308&label=Vistas%20de%20perfil&color=0c98a3&style=flat" alt="WilsondMonroyDev's"/>
